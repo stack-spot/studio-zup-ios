@@ -1,0 +1,3 @@
+[submodule "ios-sdk-app-template"]
+	path = ios-sdk-app-template
+	url = https://github.com/stack-spot/ios-sdk-app-template
